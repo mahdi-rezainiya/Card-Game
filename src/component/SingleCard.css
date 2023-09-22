@@ -7,7 +7,7 @@
     border: 2px solid #fff;
     border-radius: 6px;
 }
-/*  */
+
 .card .front {
     transform: rotateY(90deg);
     transition: all ease-in 0.2s;
